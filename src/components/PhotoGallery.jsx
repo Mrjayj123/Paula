@@ -77,7 +77,7 @@ export default function PhotoGallery() {
           viewport={{ once: true, margin: '-50px' }}
           transition={{ duration: 0.6 }}
         >
-          Our Moments 📸
+          There SHE is 📸
         </motion.h2>
         <motion.p
           className="section-subtitle"
@@ -86,7 +86,7 @@ export default function PhotoGallery() {
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
         >
-          Every picture tells a piece of our story
+          Every picture tells a piece a story
         </motion.p>
 
         <div className="gallery-grid" ref={galleryRef}>

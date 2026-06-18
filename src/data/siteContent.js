@@ -4,25 +4,27 @@
 
 export const siteContent = {
   // ---- General ----
-  name: "Konzi",
+  name: "Paula",
   tagline: "My Favorite Person",
   
   // ---- Hero Section ----
   hero: {
     greeting: "For the most beautiful soul I know",
     quote: "Every love story is beautiful, but ours is my favorite.",
-    subtitle: "This little corner of the internet is just for you 💝",
+    subtitle: "This little corner of the internet is just for you baby 💝",
   },
 
   // ---- Photos ----
   // Replace these with real photos! Just drop them in public/photos/
   photos: [
-    { src: "/photos/photo1.jpg", caption: "Your eyes 😍" },
+    { src: "/photos/photo8.jpg", caption: "Your eyes 😍" },
     { src: "/photos/photo2.jpg", caption: "My favorite snack 🌚 " },
     { src: "/photos/photo3.jpg", caption: "Effortlessly goreous" },
     { src: "/photos/photo4.jpg", caption: "Usimeze mate sana  🌚 " },
     { src: "/photos/photo5.jpg", caption: "Ok mamaa 💞 " },
-    { src: "/photos/photo6.jpg", caption: "Gangsta eh?  😂 " },
+    { src: "/photos/photo6.jpg", caption: "Cheki bunda weuwee  😂 " },
+    { src: "/photos/photo7.jpg", caption: "Nichukue unirarue basi  😂 " },
+    
   ],
 
   // ---- Videos ----
@@ -40,14 +42,44 @@ export const siteContent = {
     },
     
     { 
-      src: "/videos/video4.mp4", 
-      title: "That Dress", 
+      src: "/videos/video3.mp4", 
+      title: "Too sexxy", 
       description: "Too fvckin sexxy 😍" 
     },
     { 
-      src: "/videos/video5.mp4", 
+      src: "/videos/video4.mp4", 
+      title: "Glowing Much", 
+      description: "unaglow mamaa 😍 " 
+    },
+    { 
+      src: "/videos/video6.mp4", 
+      title: "My baby", 
+      description: "Blow me kisses" 
+    },
+    { 
+      src: "/videos/video7.mp4", 
+      title: "Foodie Much ", 
+      description: "Pole pole babygirl 🤣 " 
+    },
+    { 
+      src: "/videos/video8.mp4", 
+      title: "Ok, I see you", 
+      description: "ooouff, nichukue unimalize bas" 
+    },
+    { 
+      src: "/videos/video9.mp4", 
       title: "Your Smile", 
+      description: "I  cant even" 
+    },
+    { 
+      src: "/videos/video10.mp4", 
+      title: "Those Eyes", 
       description: "Gets me every time" 
+    },
+    { 
+      src: "/videos/video11.mp4", 
+      title: "Your Aura", 
+      description: "So effortlessly gorgeous" 
     },
     ],
 
@@ -55,7 +87,7 @@ export const siteContent = {
   loveLetters: [
     {
       date: "Forever & Always",
-      title: "My Dearest Konzi",
+      title: "My Dearest Paula",
       content: "There aren't enough words in any language to describe how much you mean to me. You are my peace, my joy, my everything. Every day with you feels like a gift I never knew I deserved.",
     },
     {
@@ -79,20 +111,20 @@ export const siteContent = {
   timeline: [
     {
       date: "The Beginning",
-      title: "The Day Everything Changed",
-      description: "The moment I first saw you, I knew my life would never be the same. Some moments are just written in the stars.",
+      title: "Do you still work out? 🤣",
+      description: "The moment I first saw you, I knew I gotta ride the wave and see where this goes.",
       icon: "✨",
     },
     {
       date: "Growing Closer",
       title: "When I Knew",
-      description: "There was this one moment — you laughed, and I realized I wanted to hear that sound for the rest of my life.",
+      description: "Even when I was out and fighting for my life, you still looked after me at your expense ❣️.",
       icon: "💫",
     },
     {
       date: "A Special Day",
       title: "Our First Adventure",
-      description: "We went out and explored the world together. Every moment felt like magic, because it was with you.",
+      description: "We went out and explored Olkeju together. Every moment felt like magic, because it was with you, especially that first kiss 💋",
       icon: "🌟",
     },
     {

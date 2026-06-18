@@ -278,7 +278,7 @@ export default function ChessPuzzle({ onSolved }) {
           <p className="opacity-90 max-w-sm mx-auto">
             White to move — find the checkmate in 7 moves
           </p>
-          <p className="name-tease italic mt-2 text-rose-300 font-serif">— for Konzi —</p>
+          <p className="name-tease italic mt-2 text-rose-300 font-serif">— for Paula —</p>
         </div>
 
         {/* Move progress dots */}

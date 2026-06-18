@@ -39,7 +39,7 @@ export default function VideoShowcase() {
           viewport={{ once: true, margin: '-50px' }}
           transition={{ duration: 0.6 }}
         >
-          Our Videos 🎬
+          My Baby 💋 🎬
         </motion.h2>
         <motion.p
           className="section-subtitle"
